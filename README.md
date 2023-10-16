@@ -1,15 +1,36 @@
 ## Hello World! I'm Felipe!
 
-<div align="center">
+<div >
   <a href="https://github.com/FelipeO16">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeO16&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeO16&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
-  
-  ##
-  
-### Commits
-![Snake animation](https://github.com/FelipeO16/FelipeO16/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeO16&theme=vue"/>
+</div>
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeO16&theme=vue"/>
+     
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeO16&theme=vue"/>
+</div>
+
+<div >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeO16&theme=vue"/>
+     
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeO16&theme=vue&utcOffset=8"/>
+</div>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=FelipeO16&theme=onestar&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
+<div align="right">
+  <a href="https://felipeoliveira.pages.dev/">
+    <img src="https://img.shields.io/badge/website-00b598?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-oliveira-720117268/">
+    <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+                                                                         
+</div>
+
 
 <!--
 **FelipeO16/FelipeO16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
