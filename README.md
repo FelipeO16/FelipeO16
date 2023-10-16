@@ -1,8 +1,3 @@
-## Hello World! I'm Felipe!
-
-<div >
-  <a href="https://github.com/FelipeO16">
-</div>
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeO16&theme=vue"/>
@@ -28,7 +23,7 @@
   <a href="https://www.linkedin.com/in/felipe-oliveira-720117268/">
     <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-                                                                         
+                                                                     
 </div>
 
 
