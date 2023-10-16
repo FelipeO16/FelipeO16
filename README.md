@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=73F7B8&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!;Desenvolvedor+FullStack+h%C3%A1+5+anos.;+FullStack+developer+for+5+years!;Atualmente+moro+no+Brasil.;I+currently+live+in+Brazil.)](https://git.io/typing-svg)
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeO16&theme=vue"/>
