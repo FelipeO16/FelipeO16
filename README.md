@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=73F7B8&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!;Desenvolvedor+FullStack+h%C3%A1+5+anos.;+FullStack+developer+for+5+years!;Atualmente+moro+no+Brasil.;I+currently+live+in+Brazil.)](https://git.io/typing-svg)
 
-🔹 Criador do [Paper UI](https://github.com/paper-kit/nuxt), uma biblioteca de componentes para Nuxt.js com um estilo desenhado à mão.
+🔹 Idealizador do [Paper UI](https://github.com/paper-kit/nuxt), uma biblioteca de componentes para Nuxt.js com um estilo desenhado à mão.
 
 [![Paper UI](https://img.shields.io/badge/Paper%20UI-%40paper--ui%2Fnuxt-00b598?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://github.com/paper-kit/nuxt)
 
