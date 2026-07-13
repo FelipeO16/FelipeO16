@@ -1,47 +1,92 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=73F7B8&random=false&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!;Desenvolvedor+FullStack+h%C3%A1+5+anos.;+FullStack+developer+for+5+years!;Atualmente+moro+no+Brasil.;I+currently+live+in+Brazil.)](https://git.io/typing-svg)
+<div align="center">
 
-🔹 Idealizador do [Paper UI](https://github.com/paper-kit/nuxt), uma biblioteca de componentes para Nuxt.js com um estilo desenhado à mão.
+# Hey 👋 I'm Felipe Oliveira
 
-[![Paper UI](https://img.shields.io/badge/Paper%20UI-%40paper--ui%2Fnuxt-00b598?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://github.com/paper-kit/nuxt)
+### Nuxt.js Specialist • FullStack Developer • Open Source Maintainer
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeO16&theme=vue"/>
+Building developer experiences, component libraries and scalable web applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe--)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeO16)
+[![Portfolio](https://img.shields.io/badge/Paper_UI-000000?style=for-the-badge&logo=nuxt&logoColor=00DC82)](https://paper-docs.nuxt.space/)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=2500&pause=1000&color=00DC82&center=true&vCenter=true&width=800&lines=Nuxt.js+Specialist;Vue.js+Developer;Open+Source+Maintainer;Building+Developer+Experience;Creating+Tools+for+Developers" />
+
 </div>
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeO16&theme=vue"/>
-     
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeO16&theme=vue"/>
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,vite,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,postgres,mysql,docker" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,vscode" />
+</p>
+
+---
+
+## 🌟 Open Source
+
+### 🎨 Paper UI
+
+A hand-crafted component library for Nuxt and Vue focused on developer experience and beautiful interfaces.
+
+- ✨ Fully typed components
+- 📚 Documentation powered by Nuxt Content
+- 🎯 Designed for DX first
+- 🚀 Built for Nuxt ecosystem
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeO16&hide_border=true"/>
+
 </div>
 
-<div >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipeO16&theme=vue"/>
-     
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeO16&theme=vue&utcOffset=8"/>
+---
+
+## 💡 Current Interests
+
+- Nuxt Modules
+- Design Systems
+- Component Libraries
+- Developer Experience
+- Documentation Platforms
+- FullStack Architecture
+- Open Source
+
+---
+
+## 🤝 Let's connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/felipe--">
+  <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Oliveira-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/FelipeO16">
+  <img src="https://img.shields.io/badge/GitHub-FelipeO16-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Building tools that developers enjoy using."
+
 </div>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=FelipeO16&theme=onestar&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
-<div>
-  <a href="https://felipeoliveira.pages.dev/">
-    <img src="https://img.shields.io/badge/website-00b598?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-oliveira-720117268/">
-    <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-
-<!--
-**FelipeO16/FelipeO16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
